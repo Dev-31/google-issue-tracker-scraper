@@ -3,3 +3,7 @@ __pycache__/
 *.log
 .DS_Store
 output/
+input/
+*.pdf
+generate_final_report.py
+generate_pdf_report.py
